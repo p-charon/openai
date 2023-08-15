@@ -8,7 +8,7 @@ http:
 
 openai:
   # 必填: KEY。 文档: https://platform.openai.com/account/api-keys
-  key: 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
+  key: sk-kr
   # 可选: 参数调节
   params:  
     # openai的接口地址，放出来是因为有些人做了反向代理，要注意这有安全问题，谨慎使用
